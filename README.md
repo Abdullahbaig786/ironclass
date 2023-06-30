@@ -59,6 +59,3 @@ This project uses multiple APIs for functionality:
 ## Acknowledgements
 
 Thanks to our instructor and classmates for their support and assistance throughout this project.
-
----
-Remember to update the repository URL in the installation section with your actual GitHub repository URL. Keep your README file updated as your project evolves.
